@@ -77,3 +77,9 @@ Basic Git Commands
 
     - git add .
         - used in Git to stage (preparing for a commit) all changes in the current directory
+
+    - git commit -m"commit message"
+        -used in Git to record the changes you've staged(prepared to commit) into the version history of your repo
+        -- -m
+            - used to provide commit message that describe the purpose of the commit
+            - the commit messafe helps us and the others understand the changes made in that commit.
