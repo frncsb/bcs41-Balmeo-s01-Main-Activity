@@ -1,0 +1,5 @@
+John Francis Balmeo									08/22/2023
+BCS41											ADV PROG
+About Me
+My name is John Francis Balmeo. I am 21 years old, and one day I aspire to be a Software Engineer, a QA Engineer, a Frontend developer, or a Game Developer. Honestly, I don't know yet. But I want to explore the field of computer science. I love to deal with problem-solving, and someday to be in the tech industry to use my computing skills to help the people around me. Today, I am a senior college student at De La Salle University Dasmarinas, and my goal is to do my best in everything.
+My motivation for joining this class is to find my joy in computer science. I lost my fire in programming after being too complacent with my studies. And I want to use this opportunity to regain that fire and fall in love with programming again, whether in game development or computer science in general.
