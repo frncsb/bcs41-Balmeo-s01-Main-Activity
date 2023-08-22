@@ -1,0 +1,79 @@
+/*
+Mini-Activity
+-screenshot the folder and files tree structure of your created repo
+*/
+
+CLI Commands
+    -Command-Line Interface
+        -a text-based tool that lets the user to communicate with your computer or software by typing specific commands
+
+Advantages of CLI Commands
+    1. efficiency
+    2. automation 
+    3. remote access
+    4. resource efficiency
+    5. reproducibility
+
+~(tilde)
+    - a special character with specific meaning in various context, it represent home directory
+        example: cd ~
+
+MINGW64
+    -also known as minimalist GNU for windows 64bot
+    - a development environment and runtime for creating native Windows application using the GNU Compiler Collection. 
+
+        -- GNU
+            - it means GNU's Not Unix
+
+Nav Commands
+    -cd : Change directory
+        - allows to change the current folder we are working on
+        syntax:
+            cd <folder/directory>
+        example:
+        cd Documents
+
+    -pwd : present working directory
+        - allows us to identify the current fodler we are working on.
+        syntax:
+        pwd
+
+    -ls : list files
+        - it allows us to list all the files and folders
+            syntax:
+            ls
+
+File Manipulation Commands
+    -mkdir : make directory
+        - allows us to create folder/directory
+        syntax:
+        mkdir <folderName>
+        exmaple:
+        mkdir s01
+    - touch : create an empty files
+        - allows us to create files
+        syntax:
+            touch <filename>
+        example:
+            touch discussion.txt
+
+subl . >> opens sublime editor
+code . >> opens VSCode editor
+
+Git VCS 
+    - an open source version control system. Allows to track and update our foles with ONLY CHANGES MADE TO IT.
+
+SSH/Secure Shell Key - a cryptographic key pair used to establish  secure and encrypted communication between a client and a server. 
+- tools we use to authenticate the uploadeing or of other tasks when manipulating or using git reposistories.
+- allows us to push/upload changes to our repositories without hte need for passwords
+
+Basic Git Commands
+    - git status
+        - used within the Git repo to display the current status of your working directory and staging area.
+
+    - git init
+        - git initialization is used to start a new repo.
+
+
+    - git add .
+        - used in Git to stage (preparing for a commit) all changes in the current directory
