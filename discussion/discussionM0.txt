@@ -98,3 +98,50 @@ Git Config
         -git config --global 
 
 Push for the first time
+    1. git init
+    2. git status
+    3. git add .
+    4. git commit -m "message"
+    5. git remote add <url>
+    6. git remote -v
+    7. git push origin master
+
+Push for update
+    1. git status
+    2. git add .
+    3. git commit -m ""
+    4. git remote -v 
+    5. git push origin master
+
+
+/*
+Main activity (activity folder of session)
+
+1. In the s01 folder, change dir from discussion to activity folder and create a new file inside the activity folder and name it aboutMe.txt
+
+2. Peek at the states of the files/folders using git status
+
+3. stage the files in preparation for creating a commit using git add.
+
+4. Create a commit message -m "Initialize activity"
+
+5. Wirte a brief story about yourself on google docs or word
+
+6. Save your work
+
+7. Check the commit history using git log/ git log --oneline.
+
+8. Add a pragraph that describes your motivation in joining the boot camp
+
+9. Check the status of the files/folders, stage  the files and create a commit.
+
+10. Add a paragraph that briefly narrates your work experience.
+
+11. Check the status of the files/folders, stage  the files and create a commit.
+
+12. Connect to a repository using git remote and add origin.
+
+13. Upload changes to GitHub Project by doing git push origin master
+
+14. Add the link and screenshot the Git Hub and GitBash
+*/
