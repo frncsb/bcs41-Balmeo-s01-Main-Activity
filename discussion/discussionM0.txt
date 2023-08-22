@@ -83,3 +83,18 @@ Basic Git Commands
         -- -m
             - used to provide commit message that describe the purpose of the commit
             - the commit messafe helps us and the others understand the changes made in that commit.
+
+Git Config
+    - these commands will allow us to have got recognize the person trying to push into an online/remote repo
+
+    - git config --global user.email ""
+        -configure the email to push into the remote repo
+       - git config --global user.name ""
+        -configure the username of the user trying to push into remote repo
+    
+    verify
+        -git config --global --list
+        -git config --global --get user.email
+        -git config --global 
+
+Push for the first time
